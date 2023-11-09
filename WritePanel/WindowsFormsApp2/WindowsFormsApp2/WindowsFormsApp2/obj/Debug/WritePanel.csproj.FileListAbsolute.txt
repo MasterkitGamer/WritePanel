@@ -1,0 +1,12 @@
+C:\Users\MasterkitGamer\source\repos\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WritePanel.csproj.AssemblyReference.cache
+C:\Users\MasterkitGamer\source\repos\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WritePanel.csproj.SuggestedBindingRedirects.cache
+C:\Users\MasterkitGamer\source\repos\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WritePanel.Form1.resources
+C:\Users\MasterkitGamer\source\repos\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WritePanel.Form2.resources
+C:\Users\MasterkitGamer\source\repos\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\MasterkitGamer\source\repos\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WritePanel.csproj.GenerateResource.cache
+C:\Users\MasterkitGamer\source\repos\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WritePanel.csproj.CoreCompileInputs.cache
+C:\Users\MasterkitGamer\source\repos\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\MasterkitGamer\source\repos\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\MasterkitGamer\source\repos\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\MasterkitGamer\source\repos\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\MasterkitGamer\source\repos\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
